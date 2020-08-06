@@ -7,3 +7,10 @@ Choose a from each of the three generation one starters – Charmander, Bulbasau
 and fight on the command line against another starter/evolution
 
 more pokemon to be added!
+
+
+** Use the following format to fight
+
+Pokemon1.fight(Pokemon2)
+
+EXAMPLE - Charizard.fight(Blastoise)
