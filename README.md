@@ -9,7 +9,7 @@ and fight on the command line against another starter/evolution
 more pokemon to be added!
 
 
-** Use the following format to fight
+** Use the following format to battle
 
 Pokemon1.fight(Pokemon2)
 
